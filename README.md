@@ -1,6 +1,8 @@
 # ClayHunn.github.io
 Blog for Flatiron
 Hello World!
+
+
 My name is Clay Hunn and I am currently in the Flatiron Data Science program, this will serve as my first blog for the course as well as an introduction to me and why I decided to take this program.  My main goal with taking this course is drum roll….. you guessed it, a better career! What a surprise.  Although, I do think I have a deeper motivation and interest behind that initial goal. 
 
 I’ll be honest with you; my professional career is a bit of a roller coaster.  I have spent multiple years in multiple industries, with about 2 years in each of the following industries: oil and gas land work, ran my own crypto mining company, and most recently mortgage banking.  Ideally, I would like to branch out to fintech/economics but feel I can contribute in any of my previous industries.  
